@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oviiy
-- 👀 I’m interested in quantitative research/ time series analysis/ factor research
-- 🌱 I’m currently learning mathematical finance at @USC
+- 👀 I’m interested in quantitative research/ time series analysis/ machine learning
+- 🌱 I’m currently studying mathematical finance at @USC
 - 📫 How to reach me wangxihao@hotmail.com
 
 <!---
